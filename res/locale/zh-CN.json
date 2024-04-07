@@ -1,13 +1,13 @@
 {
     "gui:ok": "确定",
-    "txt_copyright": "© 2024 网页红井制作组保留渲染引擎和联机服务的权利",
-    "gui:wwbrand": "美术素材版权为EA所有，目前正在逐步替换中",
+    "txt_copyright": "© 2000 ELECTRONIC ARTS INC. ALL RIGHTS RESERVED",
+    "gui:wwbrand": "WESTWOOD STUDIOS™ IS AN ELECTRONIC ARTS™ BRAND",
     "gui:loadingex": "加载中...",
-    "ts:disclaimer": "免责声明：\n\"网页红井\" 是一个非盈利的粉丝项目，与 Electronic Arts Inc.(EA) 没有任何关联。\n没有侵犯版权的意图。所有权利均归其各自所有者所有。",
+    "ts:disclaimer": "免责声明：\n\"网页RA2\" 是一个非盈利的粉丝项目，与 Electronic Arts Inc.(EA) 没有任何关联。\n没有侵犯版权的意图。所有权利均归其各自所有者所有。",
 
     "ts:downloading": "正在下载...",
     "ts:downloadingpg": "正在下载...（%d%%）",
-    "ts:downloadfailed": "无法下载远程资源。请微信关注公众号 思牛逼 获取解决方案！",
+    "ts:downloadfailed": "无法下载远程资源。",
 
     "ts:gameres_locate_title": "⚠ 如果你能看到右侧的 X ，请直接点击 X 开始游戏！！！",
     "ts:gameres_import_desc": "如果你需要游玩MOD，那么你必须要导入网页ra2的完全体副本。",
@@ -294,7 +294,7 @@
     "gui:storageused": "已使用 %s / %s",
     "gui:uploading": "正在上传“%s”...",
     "gui:uploadfinished": "上传完成。",
-    "gui:uploadfailed": "上传失败。请微信关注公众号 思牛逼 获取解决方案",
+    "gui:uploadfailed": "上传失败。",
     "gui:uploadfailedquota": "上传失败。存储配额已满。",
     "gui:confirmdeletefiles": "您确定要永久删除这 %d 个项目吗？",
     "gui:confirmdeletefile": "您确定要永久删除此项吗？",
